@@ -1,0 +1,12 @@
+{
+    "@@locale": "hi",
+    "appBarTitle": "फन्नी बोन्स",
+    "@appBarTitle": {
+        "description": "कुछ जानकारी"
+    },
+    "addNewJoke": "नया मज़ाक जोड़ें",
+    "clearAllJokes": "सभी मज़ाक हटाएं",
+    "areYouSureClearJokes": "क्या आप सभी मज़ाक हटाना चाहते हैं?",
+    "cancel": "रद्द करें",
+    "yesSure": "हाँ, बिल्कुल"
+}
